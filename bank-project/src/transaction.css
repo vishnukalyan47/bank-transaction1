@@ -1,0 +1,16 @@
+
+
+.sentTable, .receivedTable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+
+}
+
+#amountRed{
+    color: red;
+}
+#amountGreen{
+    color: green;
+}

@@ -1,0 +1,26 @@
+.navBar{
+    margin-top: 25px;
+    padding: 20px;
+    /* float: right; */ 
+    display: flex; 
+}
+
+#homeBtn{
+    margin-left: 20px;
+}
+#custBtn{
+    margin-left: 45px;
+    margin-right: 25px;
+}
+
+#transBtn{
+    margin-left: 45px;
+    margin-right: 20px;
+}
+#transDashBtn{
+    margin-left: 45px;
+}
+
+#logoutBtn{
+    margin-left: 390px;
+}

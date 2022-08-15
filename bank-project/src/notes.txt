@@ -1,0 +1,10 @@
+<DataTable responsiveLayout="scroll">
+                    <Column field="sno" header="S.no"></Column>
+                    <Column field="anum" header="Account Number"></Column>
+                    <Column field="name" header="Customer Name"></Column>
+                    <Column field="bal" header="Balance"></Column>
+                    <Column field="od" header="OD"></Column>
+                </DataTable>
+
+
+                From Prime React !!
